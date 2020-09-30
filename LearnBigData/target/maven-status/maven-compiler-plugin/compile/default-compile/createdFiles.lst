@@ -1,0 +1,13 @@
+MapReduce\simple_data_mining$Map.class
+MapReduce\simple_data_mining$Reduce.class
+MapReduce\simple_data_mining.class
+HDFS\CommonOperation.class
+MapReduce\CombineAndRemoveRepetition.class
+MapReduce\MergeAndSort$Map.class
+MapReduce\MergeAndSort.class
+MapReduce\CombineAndRemoveRepetition$Map.class
+HDFS\HDFS.class
+MapReduce\MergeAndSort$Reduce.class
+JavaTest\Welcome.class
+MapReduce\CombineAndRemoveRepetition$Reduce.class
+MapReduce\MergeAndSort$Partition.class
