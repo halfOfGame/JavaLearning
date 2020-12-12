@@ -2,7 +2,7 @@
   <artifact type="jar" name="LearnBigData:jar">
     <output-path>$PROJECT_DIR$/out/artifacts/LearnBigData_jar</output-path>
     <root id="archive" name="LearnBigData.jar">
-      <element id="module-output" name="LearnBigData" />
+      <element id="module-output" name="BigData" />
     </root>
   </artifact>
 </component>

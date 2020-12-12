@@ -6,28 +6,27 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="LearnDesignPatterns" />
-        <module name="LearnSQL" />
-        <module name="Spring" />
-        <module name="LearnJunit" />
+        <module name="JVM" />
+        <module name="Log" />
+        <module name="IO" />
+        <module name="Junit" />
+        <module name="DesignPatterns" />
+        <module name="NetworkProgramming" />
+        <module name="Flink" />
+        <module name="Annotation" />
+        <module name="SQL" />
+        <module name="SparkUsingScala" />
         <module name="Utility" />
-        <module name="LearnJVM" />
-        <module name="LearnSpring" />
-        <module name="LearnMultiThread" />
-        <module name="LearnNetworkProgramming" />
-        <module name="LearnIO" />
-        <module name="LearnFunctionalProgramming" />
+        <module name="Zookeeper" />
+        <module name="MultiThread" />
         <module name="ForTest" />
-        <module name="LearnAnnotation" />
+        <module name="FunctionalProgramming" />
+        <module name="BigData" />
         <module name="NewSpring" />
-        <module name="LearnAlgorithmsAndDataStructures" />
-        <module name="LearnJavaLog" />
-        <module name="LearnFlink" />
-        <module name="LearnBigData" />
-        <module name="LearnSparkWithScala" />
+        <module name="AlgorithmsAndDataStructures" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
+    <bytecodeTargetLevel target="8">
       <module name="ForTest" target="1.8" />
     </bytecodeTargetLevel>
   </component>
