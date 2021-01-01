@@ -9,25 +9,27 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>LearnIO</module>
-        <module>LearnSQL</module>
-        <module>LearnMultiThread</module>
-        <module>LearnNetworkProgramming</module>
+        <module>IO</module>
+        <module>SQL</module>
+        <module>MultiThread</module>
+        <module>NetworkProgramming</module>
         <module>ForTest</module>
-        <module>LearnFunctionalProgramming</module>
-        <module>LearnJunit</module>
-        <module>LearnJavaLog</module>
-        <module>LearnAlgorithmsAndDataStructures</module>
-        <module>LearnDesignPatterns</module>
-        <module>LearnBigData</module>
-        <module>LearnJVM</module>
-        <module>LearnAnnotation</module>
-        <module>LearnSpring</module>
-        <module>LearnSparkWithScala</module>
+        <module>FunctionalProgramming</module>
+        <module>Junit</module>
+        <module>Log</module>
+        <module>AlgorithmsAndDataStructures</module>
+        <module>DesignPatterns</module>
+        <module>BigData</module>
+        <module>JVM</module>
+        <module>Annotation</module>
+        <module>Spring</module>
+        <module>SparkUsingScala</module>
         <module>Utility</module>
         <module>NewSpring</module>
         <module>Spring</module>
-        <module>LearnFlink</module>
+        <module>Flink</module>
+        <module>Zookeeper</module>
+        <module>Test</module>
     </modules>
 
     <dependencies>

@@ -17,6 +17,7 @@
         <module name="SQL" />
         <module name="SparkUsingScala" />
         <module name="Utility" />
+        <module name="Test" />
         <module name="Zookeeper" />
         <module name="MultiThread" />
         <module name="ForTest" />
@@ -24,10 +25,14 @@
         <module name="BigData" />
         <module name="NewSpring" />
         <module name="AlgorithmsAndDataStructures" />
+        <module name="LearnBigData" />
+        <module name="LearnSparkWithScala" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
+      <module name="BigData" target="1.8" />
       <module name="ForTest" target="1.8" />
+      <module name="SparkUsingScala" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
